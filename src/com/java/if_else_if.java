@@ -4,7 +4,6 @@ public class if_else_if {
 
 	{
 		System.out.println(" Welcome to git");
-		
 	int i = 20;
 	 
     // condition 1
